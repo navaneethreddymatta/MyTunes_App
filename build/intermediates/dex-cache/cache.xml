@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c8bf1a60935c12e0c63ec7207543fde2f721dd4d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_cd8712999b486c81c40b442419c43e8556d18d05/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="abbfc642e73a11606f9bf3a3cc13e738cda2aead">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9c8320f0d6c20b25ca5cf48ab0d2d5883dc346b5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_5bfe6af54c3364a0342aba142cfebfff2b59e7f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_311079ccc69b92403534590e047f87bb65b1c614/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_dd736811fedee065834b3bf5c2a50e534953165b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2e7f3dbb5dedc89b612f141172f5afe20dfc1d6c">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f238d5ac3717142034b99ed298b6593ec9f0cbc0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b6e7f99ba29f708de81a0fc3d5a3af1e73560d54/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_ff029a59f156f7867c584421180ec10af4533e85/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_fbf2238fc038551490a9e67623808f001612c3cf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_d0fd4d09704a47559aff68f9c11ce2a9ceb5e5e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_95a1f2d9033db27b4b568fa4fd8141707fc23336/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_7d329e1124c4e73ab734cfc3641e6b93ca62cc01/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_fd69b7e28e7a4d34fd9115fed9630da2007a9fc6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dcb5af2b2061cb82eb577d01335c80a6280178fd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_25905e0a85fbf855565f7dfa34845c63a91f0cb4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_0989f041da045b56ea4b16feea897c7a413ebfc3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Prathyusha/Downloads/MyTunes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_10ca9b3364ab81d211e7df9ccdf4129188b98908/classes.dex" />
+    </item>
+
+</items>
